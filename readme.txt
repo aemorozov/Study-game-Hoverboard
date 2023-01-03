@@ -1,1 +1,2 @@
-# Создание красивой графической доски, которая была взята за основу написания змейки.
+# Hoverboard 
+Creating a beautiful graphic board, which was taken as the basis for writing my first independent snake project.
